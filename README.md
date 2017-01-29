@@ -1,7 +1,7 @@
 Starting a nginx api gateway
 ===
 
-Run from Dockerhub (assumes Mongo container is running and container is on local network)
+Run from Dockerhub
 ```
 docker pull astrobass/nginx-api-gateway
 
